@@ -1,6 +1,5 @@
-# Mental Health Awareness
-
-## Awesome Mental Health
+# Mental Health Is The Greatest Wealth
+## Awesome Mental Health: The Lifeness Version
 
 <p align="center"><img src="./media/logo.png"></p>
 
